@@ -45,7 +45,7 @@ class App extends Component {
                   <SearchDocuments />
                   <SearchResults  results={this.state.searchResults}/>
                   <AppOverivew />
-                  <div> List test  Documents</div>
+                  <div> List Documents</div>
                 </div>
               </div>
             </div>
