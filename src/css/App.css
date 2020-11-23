@@ -32,6 +32,10 @@
   color: #667b82;
 }
 
+.ods-item .label-item {
+  font-size: 2.3em;
+  color: #337ab7;
+}
 .appointment-list .apt-date {
   font-style: italic;
 }

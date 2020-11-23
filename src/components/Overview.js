@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 
 
-class Overivew extends Component
+class Overview extends Component
 {
     render(){
         return (
-            <div className="appointment-list item-list mb-3">
-               
+            <div className="appointment-list item-list mb-3 ">
+                <div role="separator" className="dropdown-divider" />
                 <div  className="pet-item col media py-3">
                     <span className="label-item pet-name" >Official Document System of the United Nations</span>
                 </div>
@@ -42,4 +42,4 @@ class Overivew extends Component
     }
 }
 
-export default Overivew;
+export default Overview;
